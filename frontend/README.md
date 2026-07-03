@@ -200,21 +200,16 @@ Frontend Dashboard
 
 ### Dashboard
 
-> Tambahkan screenshot dashboard di sini.
+<img width="959" height="562" alt="1" src="https://github.com/user-attachments/assets/6fdd84fa-e89a-4c9a-afc4-1aa4e3be8cce" />
+<img width="959" height="560" alt="2" src="https://github.com/user-attachments/assets/347ab40f-fd08-4f0d-816b-d621427fee9b" />
+<img width="959" height="558" alt="3" src="https://github.com/user-attachments/assets/a977ccaf-a872-49ad-97af-060a188c24c9" />
+<img width="959" height="557" alt="4" src="https://github.com/user-attachments/assets/30ee54f7-dbcf-43e8-8c25-2a9ea75bf073" />
 
-```
-assets/dashboard.png
-```
 
 ### Wokwi Simulation
 
-> Tambahkan screenshot simulasi Wokwi di sini.
+<img width="959" height="566" alt="5" src="https://github.com/user-attachments/assets/b094fc08-fa28-4153-be6b-7dc6da3bf4a9" />
 
-```
-assets/wokwi.png
-```
-
----
 
 ## 📖 Pengembang
 
@@ -224,6 +219,3 @@ Project ini dibuat sebagai bagian dari tugas akhir / proyek pembelajaran Interne
 
 ---
 
-## 📄 Lisensi
-
-Project ini digunakan untuk keperluan edukasi dan pembelajaran.
