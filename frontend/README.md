@@ -4,6 +4,13 @@ Sistem Monitoring Suhu dan Tekanan Tangki Industri Berbasis Website merupakan ap
 
 ---
 
+## Profile
+Nama   : Alfarisi Azhar
+NIM    : 23552011180
+Kelas  : TIF K23 B
+   
+---
+
 ## 📌 Fitur
 
 - 📡 Monitoring suhu secara real-time
@@ -215,7 +222,7 @@ Frontend Dashboard
 
 **Alfarisi Azhar**
 
-Project ini dibuat sebagai bagian dari tugas akhir / proyek pembelajaran Internet of Things (IoT) dan Pengembangan Web.
+Project ini dibuat sebagai bagian dari tugas akhir / proyek pembelajaran Sistem Mikrokontroller
 
 ---
 
