@@ -205,13 +205,11 @@ Frontend Dashboard
 <img width="959" height="558" alt="3" src="https://github.com/user-attachments/assets/a977ccaf-a872-49ad-97af-060a188c24c9" />
 <img width="959" height="557" alt="4" src="https://github.com/user-attachments/assets/30ee54f7-dbcf-43e8-8c25-2a9ea75bf073" />
 
----
 
 ### Wokwi Simulation
 
 <img width="959" height="566" alt="5" src="https://github.com/user-attachments/assets/b094fc08-fa28-4153-be6b-7dc6da3bf4a9" />
 
----
 
 ## 📖 Pengembang
 
